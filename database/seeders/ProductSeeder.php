@@ -25,7 +25,7 @@ class ProductSeeder extends Seeder
               'brand'=>'Apple',
               'price'=>1999,
               'shipping_cost'=>25,
-              'image_path'=>'storage/pro.jpg'
+              'image_path'=>'storage/pro3.png'
 
             ],
             [
@@ -36,7 +36,7 @@ class ProductSeeder extends Seeder
             'brand'=>'Samsung',
             'price'=>1400,
             'shipping_cost'=>40,
-            'image_path'=>'storage/pro2.jpg'
+            'image_path'=>'storage/pro.jpg'
             ],
 
           ];
